@@ -1,2 +1,3 @@
 this is file1
 Updated content
+New line added
