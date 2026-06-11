@@ -1,2 +1,2 @@
 This is master line
-
+This is branch line
